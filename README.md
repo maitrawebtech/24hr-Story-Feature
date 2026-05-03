@@ -55,6 +55,10 @@ npx serve .
 
 Works on Chrome, Firefox, Safari, and mobile browsers.
 
+## Project URL
+
+https://maitrawebtech.github.io/24hr-Story-Feature/
+
 ## Keyboard Shortcuts
 
 | Key | Action |
