@@ -57,7 +57,7 @@ Works on Chrome, Firefox, Safari, and mobile browsers.
 
 ## Project URL
 
-https://maitrawebtech.github.io/24hr-Story-Feature/
+[https://maitrawebtech.github.io/24hr-Story-Feature/](https://roadmap.sh/projects/stories-feature)
 
 ## Keyboard Shortcuts
 
